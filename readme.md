@@ -36,7 +36,7 @@ Principales descubrimientos:
     Contratos de largo plazo tienden a retener mejor a los clientes.
 
     conclusiones:
-    Motivar contratos anuales o bianuales con descuentos.
+ Motivar contratos anuales o bianuales con descuentos.
 Impulsar métodos de pago automáticos.
 Encuadrar esfuerzos de retención en clientes nuevos y de alto gasto.
 Crear alertas tempranas y campañas personalizadas para perfiles de riesgo.
